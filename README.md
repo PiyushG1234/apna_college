@@ -1,2 +1,2 @@
 # apna_college
-I a just learning
+I am just learning
